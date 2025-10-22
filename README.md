@@ -20,11 +20,12 @@ It leverages a modern and reproducible ML stack for efficient development, versi
 ## ⚙️ Quick Setup
 
 ```bash
-# 1. Create environment
+1. Clone the repository
+git clone https://github.com/joscha-hillienhoff/lego-price-prediction.git
+
+2. Activate the virtual environment (installs everything automatically)
 make env
 
-# 2. Install dependencies
-poetry install
 ```
 
 ## 🚧 Project Status
